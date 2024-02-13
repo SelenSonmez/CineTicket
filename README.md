@@ -4,11 +4,11 @@ A desktop application for cinema ticket selling, and seat booking application de
 
 Welcome to the Movie Ticket Booking System repository! This project is designed in SE 318 class with 30 test cases to provide a convenient and efficient solution for managing movie ticket reservations in a theater. The system caters to both owners and customers, offering a seamless experience for movie enthusiasts.
 
-<img src = "https://github.com/SelenSonmez/Cine-Ticket/assets/71898275/405e5ecd-3f0a-4b16-ad09-3806b59f572e" width = 400>
-<img src = "https://github.com/SelenSonmez/Cine-Ticket/assets/71898275/53856229-d1ff-430b-a113-d58d05a7e6fb" width = 400>
-<img src = "https://github.com/SelenSonmez/Cine-Ticket/assets/71898275/d04dcb05-a9ab-4c9c-be1d-a7b33f910685" width = 400>
-<img src = "https://github.com/SelenSonmez/Cine-Ticket/assets/71898275/f20ea8f1-456c-4ba7-9f4c-8575d838f538" width = 400>
-<img src = "https://github.com/SelenSonmez/Cine-Ticket/assets/71898275/79c70281-2c59-4935-8b3c-28430c263546" width = 400>
+<img src = "https://github.com/SelenSonmez/cineticket/assets/71898275/2c836efc-9951-467b-b17e-95ae37d70e70" width = 400>
+<img src = "https://github.com/SelenSonmez/cineticket/assets/71898275/ac171475-f37d-449e-99d3-7803ce647a34" width = 400>
+<img src = "https://github.com/SelenSonmez/cineticket/assets/71898275/a8279467-9634-4c86-a3a7-36d42afb304e" width = 400>
+<img src = "https://github.com/SelenSonmez/cineticket/assets/71898275/f7ad74ba-cb28-40c0-8d76-166dd16e01a5" width = 400>
+<img src = "https://github.com/SelenSonmez/cineticket/assets/71898275/9b10cc9f-890f-464c-b853-935e15d0b859" width = 400>
 
 ## Functional Requirements
 
